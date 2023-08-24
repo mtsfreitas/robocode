@@ -4,9 +4,14 @@ O respectivo projeto propõe criar um robô utilizando a API do Robocode. O rob�
 
 ![image](https://github.com/mtsfreitas/robocode/assets/21324690/920e5c1d-c379-4b19-891c-4a158a28ce2a)
 
+[Projeto do modelo e nome do respectivo robô colorizado]
+
 Para a construção do robô, foi consultado as fontes descritas nas referências desta documentação, que incluem a documentação da API na linguagem JAVA. O seu desenvolvimento foi realizado na IDE Netbeans.
 
 ![image](https://github.com/mtsfreitas/robocode/assets/21324690/a7032307-8b49-4998-b70c-4840b8ee1557)
+
+[Robô “MetalGear” com suas cores definidas no jogo.]
+
 
 # Decisões de projeto
 
