@@ -41,12 +41,16 @@ Com este projeto, nota-se a importância da definição de interfaces para outro
 # Referências
 [1] Robocode. Disponível em: <https://robocode.sourceforge.io/> Acesso em
 01/12/2019.
+
 [2] Robocode 1.9.3.0 API (JAVA). Disponível em:
 <https://robocode.sourceforge.io/docs/robocode/> Acesso em 01/12/2019.
+
 [3] Installing Robocode & Using Netbeans to build robots. Disponível em:
 <https://www.youtube.com/watch?v=5PsMHEL-1hQ> Acesso em 01/12/2019.
+
 [4] Robocode - Estudo sobre os robôs exemplos. Disponível em:
 <https://www.youtube.com/watch?v=Bz0RO1Fg1QY> Acesso em 02/12/2019.
+
 [5] Robocode Tutorial - Part 01. Disponível em:
 <https://www.youtube.com/watch?v=QQfSnrt5myA> Acesso em 02/12/2019.
 
